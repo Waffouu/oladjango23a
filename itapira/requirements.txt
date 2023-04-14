@@ -1,0 +1,4 @@
+asgref==3.6.0
+Djando==4.1.7
+sqlparse==0.4.3
+tzdata==2022.7
