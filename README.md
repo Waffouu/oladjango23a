@@ -1,12 +1,10 @@
 # oladjango23a
-projeto django turma A
+Projeto de Django Itapira 2023 turma a
 
-# Comandos
-- python -m django startproject site
+## Comandos
+- python -m django startproject itapira
 - cd itapira
 - python manage.py startapp enquete
 - python manage.py runserver
-
-# Requisitos
 - pip freeze > requirements.txt
-- install -r requirements.txt
+- pip install -r requirements.txt
